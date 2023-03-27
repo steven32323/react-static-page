@@ -1,0 +1,16 @@
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  background-color: #2a2323;
+  color: cyan;
+}
+
+.left {
+  margin-right: auto;
+  gap: 1vh;
+  display: flex;
+}
+.right {
+  color: white;
+  margin-right: 2vh;
+}
